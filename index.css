@@ -343,6 +343,8 @@ p.text4 {
 .embed-container {
   --video--width: 1296;
   --video--height: 740;
+    margin-top: 3vh;
+    margin-bottom: 3vh;
   padding-top: 5vh;
   position: relative;
   padding-bottom: calc(var(--video--height) / var(--video--width) * 100%);
